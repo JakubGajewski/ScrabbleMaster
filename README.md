@@ -1,2 +1,3 @@
 # ScrabbleMaster
-Napisany w Pythonie program pomagający nam wygrywać w Scrabble - szuka słówek w słowniku oraz sprawdza, jakie słowa zaczynają się na dany ciąg znaków. W celu uproszczenia, cały słownik został umieszczony w pliku głównym.
+
+Writen in Python application that helps you to win! It searches for words in dictionary and checks, if there are any words, that start with entered letters sequence. To make it single-file, dictionary is located in main file.
